@@ -36,7 +36,9 @@ CPE312 Introduction to Machine Learning dersinin lab çalışmaları
 * Polynomial Regression
 --> Kodlara erişmek için [tıklayınız](https://github.com/kayamuhammet/MachineLearning/blob/main/Week5/Polynomial.ipynb) <--
 
-
+# Week-5
+* Logistic Regression
+--> Kodlara erişmek için [tıklayınız](https://github.com/kayamuhammet/MachineLearning/blob/main/Week6/logistic_regression.ipynb) <--
 
 
 

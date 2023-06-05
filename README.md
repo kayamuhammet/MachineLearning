@@ -28,4 +28,15 @@ CPE312 Introduction to Machine Learning dersinin lab çalışmaları
 * Confusion Matrix
 --> Kodlara erişmek için [tıklayınız](https://github.com/kayamuhammet/MachineLearning/blob/main/Week4/Confusion_matrix.ipynb) <--
 
+# Week-5
+* Linear Regression
+--> Kodlara erişmek için [tıklayınız](https://github.com/kayamuhammet/MachineLearning/blob/main/Week5/linear_regression.ipynb) <--
+* Multi Linear Regression
+--> Kodlara erişmek için [tıklayınız](https://github.com/kayamuhammet/MachineLearning/blob/main/Week5/MLR.ipynb) <--
+* Polynomial Regression
+--> Kodlara erişmek için [tıklayınız](https://github.com/kayamuhammet/MachineLearning/blob/main/Week5/Polynomial.ipynb) <--
+
+
+
+
 

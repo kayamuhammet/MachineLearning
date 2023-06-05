@@ -50,6 +50,10 @@ CPE312 Introduction to Machine Learning dersinin lab çalışmaları
 * Decision Tree
 --> Kodlara erişmek için [tıklayınız](https://github.com/kayamuhammet/MachineLearning/blob/main/Week8/decision_tree.ipynb) <--
 
-# Week-8
+# Week-9
 * Random Forest Classifier
 --> Kodlara erişmek için [tıklayınız](https://github.com/kayamuhammet/MachineLearning/blob/main/Week9/Random_Forest_Classification.ipynb) <--
+
+# Week-10
+* PCA(Principal Component Analysis)
+--> Kodlara erişmek için [tıklayınız](https://github.com/kayamuhammet/MachineLearning/blob/main/Week10/PCA.ipynb) <--

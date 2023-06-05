@@ -48,6 +48,8 @@ CPE312 Introduction to Machine Learning dersinin lab çalışmaları
 
 # Week-8
 * Decision Tree
-* --> Kodlara erişmek için [tıklayınız](https://github.com/kayamuhammet/MachineLearning/blob/main/Week8/decision_tree.ipynb) <--
+--> Kodlara erişmek için [tıklayınız](https://github.com/kayamuhammet/MachineLearning/blob/main/Week8/decision_tree.ipynb) <--
 
-
+# Week-8
+* Random Forest Classifier
+--> Kodlara erişmek için [tıklayınız](https://github.com/kayamuhammet/MachineLearning/blob/main/Week9/Random_Forest_Classification.ipynb) <--

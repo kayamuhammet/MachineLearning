@@ -45,3 +45,9 @@ CPE312 Introduction to Machine Learning dersinin lab çalışmaları
 --> Kodlara erişmek için [tıklayınız](https://github.com/kayamuhammet/MachineLearning/blob/main/Week7/normalization.ipynb) <--
 * Support Vector Machine 
 --> Kodlara erişmek için [tıklayınız](https://github.com/kayamuhammet/MachineLearning/blob/main/Week7/support_vector_machine.ipynb) <--
+
+# Week-8
+* Decision Tree
+* --> Kodlara erişmek için [tıklayınız](https://github.com/kayamuhammet/MachineLearning/blob/main/Week8/decision_tree.ipynb) <--
+
+

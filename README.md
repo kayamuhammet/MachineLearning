@@ -57,3 +57,7 @@ CPE312 Introduction to Machine Learning dersinin lab çalışmaları
 # Week-10
 * PCA(Principal Component Analysis)
 --> Kodlara erişmek için [tıklayınız](https://github.com/kayamuhammet/MachineLearning/blob/main/Week10/PCA.ipynb) <--
+
+# Week-11
+* K-Means
+--> Kodlara erişmek için [tıklayınız](https://github.com/kayamuhammet/MachineLearning/blob/main/Week11/K-Means.ipynb) <--
